@@ -1,4 +1,5 @@
 # Python Snake Clone
+# Copied from https://pythonspot.com/snake-with-pygame/
 # Steve Olsen
 
 from pygame.locals import *
